@@ -27,6 +27,9 @@
 			],
 			"@checkout": [
 				"libs/checkout/src/index.ts"
+			],
+			"@event-bus": [
+				"libs/event-bus/src/index.ts"
 			]
 		}
 	},
